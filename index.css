@@ -71,6 +71,7 @@ nav{
 .my-card{
     display: inline-block !important;
     width: 220px;
+    height: 100%;
     box-sizing: border-box;
     border-radius: 15px !important;
     white-space: wrap;
